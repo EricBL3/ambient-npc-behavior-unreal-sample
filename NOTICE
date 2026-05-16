@@ -1,0 +1,8 @@
+Ambient NPC Behavior Framework — Unreal Engine Sample
+Copyright 2026 Eric Buitron Lopez
+
+This product includes a redistribution of the Ambient NPC Behavior Framework
+(https://github.com/EricBL3/ambient-npc-behavior-framework), which is licensed
+under the Apache License, Version 2.0. The framework binary and its associated
+license and notice files are located in the AmbientNpcUnrealSample/ThirdParty/AmbientNpcBehaviorFramework/
+directory.
